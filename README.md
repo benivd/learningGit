@@ -1,4 +1,4 @@
 # learningGit
-learning git with coursera
+learning git with coursera.
 I am editing the README file. Adding some more details about the project description.
 
